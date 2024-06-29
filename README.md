@@ -16,8 +16,8 @@ This SQL analysis is all about the findings of 2011 Indian population census. Tw
 
 - Average literacy rate of states having average literacy rate greater than 90.
 - Top 3 states with highest average sex ratio.
-- Calls by time.
-- Average speed of answer.
+
+
 - Top 3 states with lowest sex ratio.
 - States starting with letter 'A'.
 - States ending with letter 'A' or 'B'.
@@ -25,6 +25,14 @@ This SQL analysis is all about the findings of 2011 Indian population census. Tw
     
 
 - Finding out District wise Male and Female Population.
+
+
+- Finding out total number of literate and illiterate people.
+
+
+- Population in Previous Census VS Current Census State wise.
+- Population in Previous Census VS Current Census.
+
 
 
 - Finding out total number of literate and illiterate people.
